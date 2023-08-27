@@ -3,4 +3,8 @@ this is a second line
 this is a 3rd line
 dev file has 3 lines
 new line added in dev
+<<<<<<< HEAD
 another line will addeding into this file
+=======
+new line is added to the file
+>>>>>>> e1306af1ca317805197549556fcff90ec77682c9
